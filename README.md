@@ -4,8 +4,8 @@
   <a href="https://github.com/olivrrcode">
     <img src="https://img.shields.io/github/followers/olivrrcode?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow%20Me&style=social" alt="Twitter Follow">
+  <a href="https://linkedin.com/in/oliverhatherton">
+    <img src="https://img.shields.io/linkedin/follow/oliverhatherton?label=Follow%20Me&style=social" alt="LinkedIn Follow">
   </a>
 </p>
 
@@ -28,6 +28,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olivrrcode&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivrrcode&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
