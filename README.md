@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/olivrrcode">
-    <img src="https://img.shields.io/github/followers/olivrrcode?label=Follow%20Me" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/" alt="GitHub Followers">
   </a>
   <a href="https://linkedin.com/in/oliverhatherton">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow">
