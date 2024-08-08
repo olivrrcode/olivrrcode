@@ -1,10 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/75824643?s=460&u=dd731b4460ed92072a9aee8e8d51e7465f282f5b&v=4" alt="Profile Picture" width="200">
-</p>
-
-<p align="center">
   <a href="https://github.com/olivrrcode">
     <img src="https://img.shields.io/github/followers/olivrrcode?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
