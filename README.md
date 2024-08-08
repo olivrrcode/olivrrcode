@@ -36,6 +36,13 @@
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP">
 </p>
 
+<h2 align="center">🎓 Education</h2>
+<p align="center">
+  <strong>Software Engineering BSc (Hons)</strong><br>
+  University of Huddersfield (Expected Graduation: 07/2027)<br>
+  Expected Grade: First Class
+</p>
+
 <h2 align="center">🛠️ Personal Attributes</h2>
 <p align="center">
   <strong>Personal Attributes:</strong> Friendly, Positive Attitude, Teamwork and Collaboration, Problem-Solving, Attention to Detail, Multitasking
@@ -86,13 +93,6 @@
     Developed a chess engine using Python with advanced algorithms for move prediction and analysis.
   </li>
 </ul>
-
-<h2 align="center">🎓 Education</h2>
-<p align="center">
-  <strong>Software Engineering BSc (Hons)</strong><br>
-  University of Huddersfield (Expected Graduation: 07/2027)<br>
-  Expected Grade: First Class
-</p>
 
 <p align="center">
   <strong>Thank you for visiting my profile! Have a great day! 😊</strong>
