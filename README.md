@@ -5,6 +5,8 @@
   A passionate developer and tech enthusiast.
 </p>
 
+<br/>
+
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
@@ -36,6 +38,8 @@
   <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" alt="PHP">
 </p>
 
+<br/>
+
 <h2 align="center">🎓 Education</h2>
 <p align="center">
   <strong>Software Engineering BSc (Hons)</strong><br>
@@ -43,18 +47,14 @@
   Expected Grade: First Class
 </p>
 
+<br/>
+
 <h2 align="center">🛠️ Personal Attributes</h2>
 <p align="center">
   <strong>Personal Attributes:</strong> Friendly, Positive Attitude, Teamwork and Collaboration, Problem-Solving, Attention to Detail, Multitasking
 </p>
 
-
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olivrrcode&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivrrcode&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<br/>
 
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center">
@@ -64,6 +64,15 @@
   <a href="https://linkedin.com/in/oliverhatherton">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
+</p>
+
+<br/>
+
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olivrrcode&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivrrcode&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <h2 align="center">🛠️ Projects</h2>
@@ -93,6 +102,8 @@
     Developed a chess engine using Python with advanced algorithms for move prediction and analysis.
   </li>
 </ul>
+
+<br/>
 
 <p align="center">
   <strong>Thank you for visiting my profile! Have a great day! 😊</strong>
