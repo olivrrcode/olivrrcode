@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/olivrrcode?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
   <a href="https://linkedin.com/in/oliverhatherton">
-    <img src="https://img.shields.io/linkedin/follow/oliverhatherton?label=Follow%20Me&style=social" alt="LinkedIn Follow">
+    <img src="https://img.shields.io/linkedin/follow/oliverhatherton?label=Follow%20Me&style=social" alt="Follow me on LinkedIn">
   </a>
 </p>
 
@@ -16,11 +16,12 @@
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" alt="VS Code">
 </p>
@@ -44,7 +45,6 @@
 
 <h2 align="center">🌱 Currently Learning</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React">
   <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql" alt="GraphQL">
 </p>
