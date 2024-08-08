@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Hey there! 👋 I'm Oliver</strong><br>
-  A passionate developer and tech enthusiast.
+  A student at the University of Huddersfield pursuing a Bachelor's Degree in Software Engineering.
 </p>
 
 <br/>
