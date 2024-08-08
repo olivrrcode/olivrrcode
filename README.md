@@ -1,15 +1,6 @@
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <a href="https://github.com/olivrrcode">
-    <img src="https://img.shields.io/github/" alt="GitHub Followers">
-  </a>
-  <a href="https://linkedin.com/in/oliverhatherton">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow">
-  </a>
-</p>
-
-<p align="center">
   <strong>Hey there! 👋 I'm Oliver</strong><br>
   A passionate developer and tech enthusiast.
 </p>
