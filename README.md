@@ -68,13 +68,6 @@
 
 <br/>
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olivrrcode&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivrrcode&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
 <h2 align="center">🛠️ Projects</h2>
 <ul>
   <li>
@@ -102,6 +95,13 @@
     Developed a chess engine using Python with advanced algorithms for move prediction and analysis.
   </li>
 </ul>
+
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olivrrcode&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivrrcode&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 <br/>
 
