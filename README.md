@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/olivrrcode?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
   <a href="https://linkedin.com/in/oliverhatherton">
-    <img src="https://img.shields.io/linkedin/follow/oliverhatherton?label=Follow%20Me&style=social" alt="LinkedIn Follow">
+    <img src="[https://img.shields.io/linkedin/follow/oliverhatherton?label=Follow%20Me&style=social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Follow">
   </a>
 </p>
 
