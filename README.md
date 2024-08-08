@@ -18,13 +18,10 @@
   <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" alt="Express.js">
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB">
   <img src="https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux" alt="Redux">
-  <img src="https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=material-ui" alt="Material UI">
   <img src="https://img.shields.io/badge/-Bcrypt-black?style=flat-square&logo=bcrypt" alt="Bcrypt">
-  <img src="https://img.shields.io/badge/-React%20Router%20DOM-black?style=flat-square&logo=react-router" alt="React Router DOM">
   <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" alt="Flask">
   <img src="https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io" alt="Socket.IO">
   <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" alt="Postman">
-  <img src="https://img.shields.io/badge/-MongoDB%20Compass-black?style=flat-square&logo=mongodb" alt="MongoDB Compass">
   <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest" alt="Jest">
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" alt="VS Code">
